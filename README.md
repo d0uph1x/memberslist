@@ -1,9 +1,9 @@
-MEMBERS LIST APP
+**MEMBERS LIST APP**
 
-===>STEPS TO INSTALL <===
+**===>STEPS TO INSTALL <===
 
-- Run npm install in root directory
+**- Run npm install in root directory**
 
-- Run npm run dev
+**- Run npm run dev**
 
-- Load application on http://localhost:3000
+**-Load application on http://localhost:3000**
